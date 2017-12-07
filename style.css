@@ -1,0 +1,46 @@
+
+body {
+font-family: 'Special Elite', cursive;
+background-image: url("http://paper-backgrounds.com/textureimages/2014/03/green-grunge-concrete-texture2-hd.jpg");
+background-repeat: no-repeat;
+background-size: auto;
+
+}
+
+table {
+	margin: 25px auto;
+	background: black;
+	border: 8px;
+}
+
+#gameName {
+	font-size: 200px;
+	color: white;
+	padding-top: 40px;
+	text-align:  center;
+	margin: 30px 0 0 0;
+}
+
+.letter {
+	color: #175425;
+	font-size: 100px;
+	text-align: center;
+	
+}
+
+.box {
+	height: 150px;
+	width: 150px;
+	background: white;
+}
+
+.button {
+	font-family: 'Special Elite', cursive;
+	color: white;
+	font-weight: bold;
+	background: green;
+	border: 5px solid black;
+	font-size: 30px;
+	padding: 20px;
+}
+
